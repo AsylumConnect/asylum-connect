@@ -3,7 +3,7 @@ name: Entre Hermanos (Latino LGBTQ Resource Center)
 address: 1105 23rd Ave, Seattle, WA 98122
 lat: 47.61176
 long: -122.30298
-website: http://entrehermanos.org/?page_id=42
+website: http://entrehermanos.org/en/home-2/
 categories:
   - Sexual Health
   - Community Centers
@@ -28,6 +28,6 @@ features:
 - **Hours:** Mon-Fri, 10am-5pm
 - **Phone Number:** 206-322-7700
 - **Email:** info@entrehermanos.org
-- **Website:** <http://entrehermanos.org/programs/>
+- **Website:** <http://entrehermanos.org/en/home-2/>
 - **Non-English Services Available:** Spanish
 - **Additional Information:** Programs are usually delivered in Spanish or a bilingual format, as well as in a culturally appropriate manner by members of the community.
